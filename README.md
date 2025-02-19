@@ -1,34 +1,66 @@
-# Customer-Retention-Dashboard
+# Customer-Retention-Analysis
 
-Customer Churn Analysis Report
-1. Objective of the Project
-The primary objective of this project is to analyze customer churn patterns and identify key factors contributing to customer attrition. By leveraging data analytics techniques, this project aims to provide actionable insights that can help businesses reduce churn, improve customer retention strategies, and enhance overall customer satisfaction.
+# 📊 Churn Analysis Project  
 
-2. About the Data
-The dataset used for this analysis consists of customer information from a telecom company. It includes demographic details, subscription information, usage behavior, and customer support interactions. The dataset captures both active and churned customers, allowing for a comparative analysis to identify churn indicators.
+## 📌 Project Overview  
+Customer churn is a critical issue for businesses, as losing customers leads to revenue loss. This project analyzes customer churn patterns using Python and Power BI to identify key risk factors and improve customer retention strategies.  
 
-Key Attributes in the Dataset
-Customer ID: Unique identifier for each customer.
-Tenure: Duration of customer relationship with the company.
-Subscription Type: Types of services subscribed (e.g., Internet, Phone, Streaming).
-Monthly Charges: Amount billed to the customer each month.
-Total Charges: Cumulative charges paid by the customer.
-Contract Type: Subscription duration (e.g., Monthly, Yearly).
-Payment Method: Method used for payments (e.g., Credit Card, Bank Transfer).
-Customer Support Calls: Number of support interactions recorded.
-Churn Status: Whether the customer has left the service (Yes/No).
+## 📂 Dataset Information  
+- **File**: `Churn-Dataset.xlsx`    
+- **Columns Include**: Customer demographics, subscription details, usage behavior, and churn status.  
 
-3. Key Features of the Analysis
-Churn Rate Calculation: Determining the percentage of customers who have left.
-Demographic Impact: Examining churn based on customer age, location, and other demographic factors.
-Usage Patterns: Identifying how service usage impacts churn likelihood.
-Financial Analysis: Assessing how pricing, billing, and contract types influence customer retention.
-Predictive Modeling: Using data analytics to predict customers at risk of churning.
-Visualization and Reporting: Creating dashboards for clear insights and business decision-making.
+## 🛠️ Tools & Technologies Used  
+- **Python (Jupyter Notebook)**: Data preprocessing, exploratory data analysis (EDA), visualization.  
+- **Pandas & NumPy**: Data manipulation.  
+- **Matplotlib & Seaborn**: Data visualization.  
+- **Power BI**: Interactive dashboards for insights and trends.  
 
-4. Tools Used for the Analysis
-To conduct this analysis, the following tools and technologies were used:
+## 📊 Key Features & Analysis  
+### 🔍 Python Analysis  
+✅ Data Cleaning & Handling Missing Values  
+✅ Exploratory Data Analysis (EDA)  
+✅ Customer Segmentation Based on Churn Risk  
+✅ Feature Engineering & Correlation Analysis  
 
-Microsoft Excel: Initial data exploration and preprocessing.
-Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn): Data cleaning, exploratory data analysis, visualization, and predictive modeling.
-Power BI/Tableau: Creating interactive dashboards for visual storytelling.
+### 📊 Power BI Dashboards  
+✅ **Customer Churn Dashboard**: Overview of churned and retained customers.  
+✅ **Customer Risk Analysis Dashboard**: Identifies high-risk customers based on behavior.  
+✅ **Customer Retention Strategies**: Recommendations for reducing churn.  
+
+## 📎 Project Structure 
+Churn-Analysis-Project/ │── README.md # Project documentation │── data/ │ │── Churn-Dataset.xlsx # Raw dataset │── scripts/ │ │── Churn_Customer.ipynb # Python analysis notebook │── dashboards/ │ │── Churn_Analysis_Dashboard.pbix # Power BI dashboard │ │── Churn_Customer_Dashboard.png # Dashboard screenshot │ │── Customer_Risk_Analysis_Dashboard.png # Dashboard screenshot │── reports/ │ │── Churn_Analysis_Report.pdf # Final report with findings & recommendations
+
+
+## 📊 Power BI Dashboard Preview  
+Here’s a snapshot of the Power BI dashboard:  
+![Customer Churn Dashboard](dashboards/Churn_Customer_Dashboard.png)  
+
+## 🚀 How to Run the Project  
+### 🔹 Python Analysis  
+1. Clone the repository:
+   git clone https://github.com/jriya23/Churn-Analysis-Project.git
+2. Install required Python libraries:
+   pip install pandas numpy matplotlib seaborn
+3. Open `Churn_Customer.ipynb` in Jupyter Notebook and run the cells.  
+
+### 🔹 Power BI Dashboard  
+1. Open `Churn_Analysis_Dashboard.pbix` in Power BI.  
+2. Interact with the dashboard to explore insights.  
+
+## 📢 Key Insights & Recommendations  
+🔹 **High Churn Rate**: Customers with lower engagement and longer subscription durations are more likely to churn.  
+🔹 **Demographic Influence**: Certain age groups and customer segments show higher churn rates.  
+🔹 **Retention Strategies**: Personalized offers and better customer engagement can reduce churn.  
+
+## 📜 Conclusion  
+By leveraging Python for in-depth analysis and Power BI for visualization, this project provides actionable insights to reduce customer churn and improve retention strategies.  
+
+## 📧 Contact & Feedback  
+If you have any suggestions or want to collaborate, feel free to reach out!  
+
+📩 **Email:** jriyaofficial5753@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/riya-jain-data
+
+
+
+
