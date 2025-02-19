@@ -38,7 +38,7 @@ Here’s a snapshot of the Power BI dashboard:
 ## 🚀 How to Run the Project  
 ### 🔹 Python Analysis  
 1. Clone the repository:
-   git clone https://github.com/jriya23/Churn-Analysis-Project.git
+   git clone https://github.com/jriya23/Customer-Retention-Analysis/blob/main/Churn%20Customer.ipynb
 2. Install required Python libraries:
    pip install pandas numpy matplotlib seaborn
 3. Open `Churn_Customer.ipynb` in Jupyter Notebook and run the cells.  
