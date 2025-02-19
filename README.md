@@ -32,7 +32,8 @@ Churn-Analysis-Project/ │── README.md # Project documentation │── da
 
 ## 📊 Power BI Dashboard Preview  
 Here’s a snapshot of the Power BI dashboard:  
-![Customer Churn Dashboard](dashboards/Churn_Customer_Dashboard.png)  
+![Customer Churn Dashboard](dashboard/Customer Risk Analysis Dashboard.png)
+(dashboard/Customer Risk Analysis Dashboard.png)
 
 ## 🚀 How to Run the Project  
 ### 🔹 Python Analysis  
