@@ -1,6 +1,5 @@
 # Customer-Retention-Analysis
 
-# 📊 Churn Analysis Project  
 
 ## 📌 Project Overview  
 Customer churn is a critical issue for businesses, as losing customers leads to revenue loss. This project analyzes customer churn patterns using Python and Power BI to identify key risk factors and improve customer retention strategies.  
