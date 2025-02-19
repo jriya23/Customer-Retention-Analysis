@@ -33,7 +33,7 @@ Churn-Analysis-Project/ │── README.md # Project documentation │── da
 ## 📊 Power BI Dashboard Preview  
 Here’s a snapshot of the Power BI dashboard:  
 ![Customer Churn Dashboard](dashboard/https://github.com/jriya23/Customer-Retention-Analysis/blob/main/Customer%20Risk%20Analysis%20Dashboard.png)
-![Customer Churn Dashboard](dashboard/https://github.com/jriya23/Customer-Retention-Analysis/blob/main/Customer%20Retention.pbix)
+![Customer Risk Analysis Dashboard](dashboard/https://github.com/jriya23/Customer-Retention-Analysis/blob/main/Customer%20Retention.pbix)
 
 ## 🚀 How to Run the Project  
 ### 🔹 Python Analysis  
